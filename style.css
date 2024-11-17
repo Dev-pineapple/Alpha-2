@@ -10,14 +10,11 @@ h1 {
   width: 160px;
   margin:10px;
   padding: 8px;
-  border: 1px solid;
-  
+  border: 1px solid;  
 }
-
 a {
   text-decoration: none;
 }
-
 div {
   background: #85C4D7A1;
   color: #062167;
